@@ -1,3 +1,6 @@
-theme: jekyll-theme-minimal
 title: Bawsky's homepage
 description: Project updates and about the author.
+
+theme: cayman
+plugins:
+  - jekyll-feed
