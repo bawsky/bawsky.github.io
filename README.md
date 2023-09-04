@@ -1,1 +1,0 @@
-# bawsky.github.io
