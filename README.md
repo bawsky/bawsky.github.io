@@ -1,5 +1,5 @@
 # About
-Testing GitHub pages with jekyll... 
+Testing GitHub Pages with Jekyll... 
 
 # Links
-https://jekyllrb.com/docs/github-pages/
+[Jekyll GitHub Pages Docs](https://jekyllrb.com/docs/github-pages/)
